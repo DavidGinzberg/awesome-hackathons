@@ -8,7 +8,7 @@
 
 ## Hackathon Websites
 - [hackmit-splash] (https://github.com/techx/hackmit-splash) by HackMIT
-- [calhacks2] (https://github.com/calhacks/website2) by Cal Hacks
+- [calhacks2] (https://github.com/calhacks/website2) by Cal Hacks. Splash page, live page for during the event. Forked by [bayeshack](https://github.com/lukasschwab/website2). Live versions [here](http://www.calhacks.io/) and [here](http://bayeshack.org/).
 
 ## Tutorials / Hackpacks
 - [treehacks-webtutorial] (https://github.com/TreeHacks/hackpack-web) by TreeHacks. Build an app in Ruby using a framework called Sinatra, called TreeYaks, which lets people post content and upvote/downvote what other people posted.
