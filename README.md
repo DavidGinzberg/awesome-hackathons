@@ -4,7 +4,8 @@
 ## Admissions
 
 ## Mentorship
-- [treehacks-mentorbot] (https://github.com/TreeHacks/slack-mentorship) by TreeHacks
+- [treehacks-mentorbot] (https://github.com/TreeHacks/slack-mentorship) by TreeHacks. Slackbot that provides mentors a channel to claim help requests and attendees to submit help requests within slack. Queues requests in a #mentors channel.
+- [hackmit-HELPq] (https://github.com/ehzhang/helpq) by HackMIT. Queue application with interfaces for mentors and hackers to answer/submit questions, respectively.
 
 ## Hackathon Websites
 - [hackmit-splash] (https://github.com/techx/hackmit-splash) by HackMIT
