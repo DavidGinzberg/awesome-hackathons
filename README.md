@@ -13,6 +13,8 @@
 - [boilermake frontend] (https://github.com/BoilerMake/frontend) by BoilerMake. To be used in conjunction with the [BoilerMake Backend API] (https://github.com/BoilerMake/backend)
 
 ## Tutorials / Hackpacks
+- [how-to-api] (https://github.com/BoilerCamp/how-to-api) by BoilerMake. Learn what an API is, and then build an API and consume it with an Angular app.
+- [how-to-webdev] (https://github.com/BoilerCamp/how-to-webdev) by BoilerMake. Build a Node/Express/Mongo portfolio and blog webpage. [gitbook tutorial] (http://boilercamp.github.io/how-to-webdev/) 
 - [treehacks-webtutorial] (https://github.com/TreeHacks/hackpack-web) by TreeHacks. Build an app in Ruby using a framework called Sinatra, called TreeYaks, which lets people post content and upvote/downvote what other people posted.
 - [treehacks-iostutorial] (https://github.com/TreeHacks/hackpack-ios) by TreeHacks. Build a “Morning Briefing” app that displays a bunch of things you may want to see everyday, in Swift.
 - [treehacks-chromeexttutorial] (https://github.com/TreeHacks/hackpack-chrome-ext) by TreeHacks. Build a chrome extension that replaces the content on webpages according to customizable rules, in JavaScript.
