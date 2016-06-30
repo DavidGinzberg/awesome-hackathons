@@ -10,11 +10,17 @@
 ## Hackathon Websites
 - [hackmit-splash] (https://github.com/techx/hackmit-splash) by HackMIT
 - [calhacks2] (https://github.com/calhacks/website2) by Cal Hacks. Splash page, live page for during the event. Forked by [bayeshack](https://github.com/lukasschwab/website2). Live versions [here](http://www.calhacks.io/) and [here](http://bayeshack.org/).
+- [boilermake frontend] (https://github.com/BoilerMake/frontend) by BoilerMake. To be used in conjunction with the [BoilerMake Backend API] (https://github.com/BoilerMake/backend)
 
 ## Tutorials / Hackpacks
 - [treehacks-webtutorial] (https://github.com/TreeHacks/hackpack-web) by TreeHacks. Build an app in Ruby using a framework called Sinatra, called TreeYaks, which lets people post content and upvote/downvote what other people posted.
 - [treehacks-iostutorial] (https://github.com/TreeHacks/hackpack-ios) by TreeHacks. Build a “Morning Briefing” app that displays a bunch of things you may want to see everyday, in Swift.
 - [treehacks-chromeexttutorial] (https://github.com/TreeHacks/hackpack-chrome-ext) by TreeHacks. Build a chrome extension that replaces the content on webpages according to customizable rules, in JavaScript.
+
+## Other/Misc
+- [boilerbot] (https://github.com/BoilerMake/boilerbot) by BoilerMake. Take control of your Slack by creating groups, assigning tasks, and more!
+- [expo table app] (https://github.com/nealrs/expo#fork-destination-box) Create a Devpost Expo table frontend
+
 
 #### Contributing
 Please submit a pull request to improve this file, and try to add a 1-2 sentance summary of your software. If you want to be added as a collaborator, leave a comment on your PR. Thank you to all contributors; you rock!
