@@ -19,10 +19,16 @@
 - [treehacks-iostutorial] (https://github.com/TreeHacks/hackpack-ios) by TreeHacks. Build a “Morning Briefing” app that displays a bunch of things you may want to see everyday, in Swift.
 - [treehacks-chromeexttutorial] (https://github.com/TreeHacks/hackpack-chrome-ext) by TreeHacks. Build a chrome extension that replaces the content on webpages according to customizable rules, in JavaScript.
 
-## Other/Misc
+## Chat
 - [boilerbot] (https://github.com/BoilerMake/boilerbot) by BoilerMake. Take control of your Slack by creating groups, assigning tasks, and more!
-- [expo table app] (https://github.com/nealrs/expo#fork-destination-box) Create a Devpost Expo table frontend
+- [hubot-redisred](https://github.com/Detry322/hubot-redisred), [hubot-group](https://github.com/anishathalye/hubot-group), [hubot-conf](https://github.com/anishathalye/hubot-conf), [hubot-shortcut](https://github.com/anishathalye/hubot-shortcut) by HackMIT. A whole bunch of [Hubot](https://hubot.github.com/) plugins to make organizing easier.
 
+## Judging
+- [expo table app] (https://github.com/nealrs/expo#fork-destination-box) Create a Devpost Expo table frontend
+- [gavel](https://github.com/anishathalye/gavel) by HackMIT. A project expo judging system that uses fancy math to get good results.
+
+## Other
+- [redisred](https://github.com/Detry322/redisred) by HackMIT. A small Redis-based URL shortener.
 
 #### Contributing
 Please submit a pull request to improve this file, and try to add a 1-2 sentance summary of your software. If you want to be added as a collaborator, leave a comment on your PR. Thank you to all contributors; you rock!
