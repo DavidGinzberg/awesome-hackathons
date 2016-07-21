@@ -9,7 +9,7 @@
 
 ## Hackathon Websites
 - [hackmit-splash] (https://github.com/techx/hackmit-splash) by HackMIT
-- [calhacks2] (https://github.com/calhacks/website2) by Cal Hacks. Splash page, live page for during the event. Forked by [bayeshack](https://github.com/lukasschwab/website2). Live versions [here](http://www.calhacks.io/) and [here](http://bayeshack.org/).
+- [calhacks2] (https://github.com/calhacks/website2) by Cal Hacks. Splash page, live page for during the event. Forked by [Bayes Hack](https://github.com/lukasschwab/website2) and [Big Hack](https://github.com/cconsidine/big-hack-website). Live versions [here](http://www.calhacks.io/), [here](http://bayeshack.org/), and [here](http://www.bighack.org/).
 - [boilermake frontend] (https://github.com/BoilerMake/frontend) by BoilerMake. To be used in conjunction with the [BoilerMake Backend API] (https://github.com/BoilerMake/backend)
 
 ## Tutorials / Hackpacks
