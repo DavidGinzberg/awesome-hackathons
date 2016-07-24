@@ -1,7 +1,17 @@
 # awesome-hackathons
 ### A centralized repo for hackathon software, by hackathon organizers.
 
+## Preface
+When it comes to hackathons, too many organizing teams spend most of their time on the menial work - the mechanics of admissions, money, or logistics, for instance. As a result, organizers don't have time to plan the "non-essentials," like extra experiences or great ceremonies, to take their events to the next level, and overall hackathon quality seems to have stagnated in the past few years as a result. Organizing teams spend the whole year reinventing the wheel and learning to plan the same event that was held last year; legacy knowledge and tools rarely find themselves reused.
+
+This is a software resource to help you do the easy stuff more efficiently. It is by no means meant to be a replacement for the **[mlh organizers guide](http://guide.mlh.io/)** - you should think of that as a more linear narrative to help plan a hackathon, while this is a set of tools that you pick and choose from to deploy as you need them.
+
+Our hope is that by allowing organizers to automate the things that are easy to automate, this frees up bandwidth so that we can think about how to plan hackathons that 
+
+(Almost) all of this has been "battle-tested" by organizing teams, and we'd love to see organizing teams who have processes for their hackathons contribute as well. Hundreds of hackathons are run across the country - it seems that every hackathon could gain a lot if we all shared our methods, best practices, and tools.
+
 ## Admissions
+- [hackathonpack-admissions](https://github.com/mikeyu152/hackathonpack/tree/master/admissions) by mike for numerous hackathons including TreeHacks. Typeform template + Excel sheets that enable easy distribution of scoring by criteria, and easy aggregation of these scores into final decisions. Also enables acceptance that takes into account gender and racial diversity. 
 
 ## Mentorship
 - [treehacks-mentorbot] (https://github.com/TreeHacks/slack-mentorship) by TreeHacks. Slackbot that provides mentors a channel to claim help requests and attendees to submit help requests within slack. Queues requests in a #mentors channel.
