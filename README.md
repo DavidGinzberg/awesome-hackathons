@@ -11,14 +11,17 @@ Our hope is that by allowing organizers to automate the things that are easy to 
 ## admissions
 - [hackathonpack-admissions](https://github.com/mikeyu152/hackathonpack/tree/master/admissions) by mike for numerous hackathons including TreeHacks. Typeform template + Excel sheets that enable easy distribution of scoring by criteria, and easy aggregation of these scores into final decisions. Also enables acceptance that takes into account gender and racial diversity. 
 
+## chat
+- [boilerbot] (https://github.com/BoilerMake/boilerbot) by BoilerMake. Take control of your Slack by creating groups, assigning tasks, and more!
+- [hubot-redisred](https://github.com/Detry322/hubot-redisred), [hubot-group](https://github.com/anishathalye/hubot-group), [hubot-conf](https://github.com/anishathalye/hubot-conf), [hubot-shortcut](https://github.com/anishathalye/hubot-shortcut) by HackMIT. A whole bunch of [Hubot](https://hubot.github.com/) plugins to make organizing easier.
+
+## judging
+- [expo table app] (https://github.com/nealrs/expo#fork-destination-box) Create a Devpost Expo table frontend
+- [gavel](https://github.com/anishathalye/gavel) by HackMIT. A project expo judging system that uses fancy math to get good results.
+
 ## mentorship
 - [treehacks-mentorbot] (https://github.com/TreeHacks/slack-mentorship) by TreeHacks. Slackbot that provides mentors a channel to claim help requests and attendees to submit help requests within slack. Queues requests in a #mentors channel.
 - [hackmit-HELPq] (https://github.com/ehzhang/helpq) by HackMIT. Queue application with interfaces for mentors and hackers to answer/submit questions, respectively.
-
-## hackathon websites
-- [hackmit-splash] (https://github.com/techx/hackmit-splash) by HackMIT
-- [calhacks2] (https://github.com/calhacks/website2) by Cal Hacks. Splash page, live page for during the event. Forked by [Bayes Hack](https://github.com/lukasschwab/website2) and [Big Hack](https://github.com/cconsidine/big-hack-website). Live versions [here](http://www.calhacks.io/), [here](http://bayeshack.org/), and [here](http://www.bighack.org/).
-- [boilermake frontend] (https://github.com/BoilerMake/frontend) by BoilerMake. To be used in conjunction with the [BoilerMake Backend API] (https://github.com/BoilerMake/backend)
 
 ## tutorials / hackpacks
 - [how-to-api] (https://github.com/BoilerCamp/how-to-api) by BoilerMake. Learn what an API is, and then build an API and consume it with an Angular app.
@@ -27,13 +30,10 @@ Our hope is that by allowing organizers to automate the things that are easy to 
 - [treehacks-iostutorial] (https://github.com/TreeHacks/hackpack-ios) by TreeHacks. Build a “Morning Briefing” app that displays a bunch of things you may want to see everyday, in Swift.
 - [treehacks-chromeexttutorial] (https://github.com/TreeHacks/hackpack-chrome-ext) by TreeHacks. Build a chrome extension that replaces the content on webpages according to customizable rules, in JavaScript.
 
-## chat
-- [boilerbot] (https://github.com/BoilerMake/boilerbot) by BoilerMake. Take control of your Slack by creating groups, assigning tasks, and more!
-- [hubot-redisred](https://github.com/Detry322/hubot-redisred), [hubot-group](https://github.com/anishathalye/hubot-group), [hubot-conf](https://github.com/anishathalye/hubot-conf), [hubot-shortcut](https://github.com/anishathalye/hubot-shortcut) by HackMIT. A whole bunch of [Hubot](https://hubot.github.com/) plugins to make organizing easier.
-
-## judging
-- [expo table app] (https://github.com/nealrs/expo#fork-destination-box) Create a Devpost Expo table frontend
-- [gavel](https://github.com/anishathalye/gavel) by HackMIT. A project expo judging system that uses fancy math to get good results.
+## websites
+- [hackmit-splash] (https://github.com/techx/hackmit-splash) by HackMIT
+- [calhacks2] (https://github.com/calhacks/website2) by Cal Hacks. Splash page, live page for during the event. Forked by [Bayes Hack](https://github.com/lukasschwab/website2) and [Big Hack](https://github.com/cconsidine/big-hack-website). Live versions [here](http://www.calhacks.io/), [here](http://bayeshack.org/), and [here](http://www.bighack.org/).
+- [boilermake frontend] (https://github.com/BoilerMake/frontend) by BoilerMake. To be used in conjunction with the [BoilerMake Backend API] (https://github.com/BoilerMake/backend)
 
 ## other
 - [redisred](https://github.com/Detry322/redisred) by HackMIT. A small Redis-based URL shortener.
