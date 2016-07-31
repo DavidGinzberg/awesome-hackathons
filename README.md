@@ -4,7 +4,7 @@
 ## preface
 When it comes to hackathons, too many organizing teams spend most of their time on the menial work - the mechanics of admissions, money, or logistics, for instance. As a result, organizers don't have time to plan the "non-essentials," like extra experiences or great ceremonies, to take their events to the next level, and overall hackathon quality seems to have stagnated in the past few years as a result. Organizing teams spend the whole year reinventing the wheel and learning to plan the same event that was held last year; legacy knowledge and tools rarely find themselves reused.
 
-Our hope is that by allowing organizers to automate the things that are easy to automate, this frees up bandwidth so that we can think about how to plan incredible hackathons. 
+Our hope is that by allowing organizers to automate the things that are easy to automate, this frees up bandwidth so that they can focus on innovating on the hackathon model and building something better. 
 
 (Almost) all of this has been "battle-tested" by organizing teams, and we'd love to see organizing teams who have processes for their hackathons contribute as well. Hundreds of hackathons are run across the country - it seems that every hackathon could gain a lot if we all shared our methods, best practices, and tools.
 
