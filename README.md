@@ -41,4 +41,4 @@ Our hope is that by allowing organizers to automate the things that are easy to 
 - [redisred](https://github.com/Detry322/redisred) by HackMIT. A small Redis-based URL shortener.
 
 #### contributing
-Please submit a pull request to improve this file, and try to add a 1-2 sentance summary of your software. If you want to be added as a collaborator, leave a comment on your PR. Thank you to all contributors; you rock!
+Please submit a pull request to improve this file, and try to add a 1-2 sentance summary of your software. Your PR will not be merged  unless it is released under an appropriate open-source license. If you want to be added as a collaborator, leave a comment on your PR. Thank you to all contributors; you rock!
