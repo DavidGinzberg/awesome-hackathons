@@ -34,7 +34,7 @@ Our hope is that by allowing organizers to automate the things that are easy to 
 - [hackmit-splash] (https://github.com/techx/hackmit-splash) by HackMIT
 - [calhacks2] (https://github.com/calhacks/website2) by Cal Hacks. Splash page, live page for during the event. Forked by [Bayes Hack](https://github.com/lukasschwab/website2) and [Big Hack](https://github.com/cconsidine/big-hack-website). Live versions [here](http://www.calhacks.io/), [here](http://bayeshack.org/), and [here](http://www.bighack.org/).
 - [boilermake frontend] (https://github.com/BoilerMake/frontend) by BoilerMake. To be used in conjunction with the [BoilerMake Backend API] (https://github.com/BoilerMake/backend)
-- [MedHacksSplashPage2016] (https://github.com/medhacks/SplashPage2016) by MedHacks. Splash page, live [here](http://medhacks.org). The sexy circuit animation in the cover is all CSS, 10 points if you figure out how to implement it yourself :)
+- [MedHacksSplashPage2016] (https://github.com/medhacks/SplashPage2k16) by MedHacks. Splash page, live [here](http://medhacks.org). The sexy circuit animation in the cover is all CSS, 10 points if you figure out how to implement it yourself :)
 - [hacknc 2016](https://github.com/hacknc/fall2016) by [HackNC](http://hacknc.com).  Great simple one-pager with gulp and scss documentation.
 
 ## other
