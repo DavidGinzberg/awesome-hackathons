@@ -8,6 +8,9 @@ Our hope is that by allowing organizers to automate the things that are easy to 
 
 (Almost) all of this has been "battle-tested" by organizing teams, and we'd love to see organizing teams who have processes for their hackathons contribute as well. Hundreds of hackathons are run across the country - it seems that every hackathon could gain a lot if we all shared our methods, best practices, and tools.
 
+## registration
+* [quill](https://github.com/techx/quill) - A registration system designed especially for hackathons. For hackers, it's a clean and streamlined interface to submit registration and confirmation information. For hackathon organizers, it's an easy way to manage applications, view registration stats, and more! Built using **Node.js** by the HackMIT team.
+
 ## admissions
 - [hackathonpack-admissions](https://github.com/mikeyu152/hackathonpack/tree/master/admissions) by mike for numerous hackathons including TreeHacks. Typeform template + Excel sheets that enable easy distribution of scoring by criteria, and easy aggregation of these scores into final decisions. Also enables acceptance that takes into account gender and racial diversity. 
 
